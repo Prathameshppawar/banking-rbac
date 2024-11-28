@@ -8,7 +8,7 @@ const Dashboard = () => {
     const [amount, setAmount] = useState('');
     const [transferAccount, setTransferAccount] = useState('');
     const [actionError, setActionError] = useState('');
-
+    
     useEffect(() => {
         const fetchData = async () => {
             try {
