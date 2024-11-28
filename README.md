@@ -1,6 +1,4 @@
-Here’s the markdown code for your **README.md**, including your updated environment variables:
 
-```markdown
 # **RBAC Authentication and Authorization System (Next.js)**
 
 ## **Overview**
